@@ -1,4 +1,4 @@
-#multiply two images
+#multiply two images in frequency domain
 import cv2
 import numpy as np 
 
