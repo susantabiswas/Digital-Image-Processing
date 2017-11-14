@@ -2,7 +2,7 @@
 #This code increases the contrast of an image
 import cv2
 
-#open the imaege in greyscale
+#open the image in greyscale
 img = cv2.imread('lenna.jpg',0)
 cv2.imwrite('grey.jpg', img)
 #get dimensions
